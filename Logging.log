@@ -1,0 +1,2 @@
+2023-05-30 11:14:32.647 ERROR 12656 --- [http-nio-9090-exec-2] com.learnlogging.controller.Controller   : An exception occurred: / by zero
+2023-05-30 12:02:03.207 ERROR 6512 --- [http-nio-9090-exec-1] com.learnlogging.controller.Controller   : An exception occurred: / by zero
